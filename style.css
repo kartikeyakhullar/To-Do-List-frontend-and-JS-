@@ -1,0 +1,7 @@
+body{
+    background-color: chocolate;
+}
+
+.disabled{
+    text-decoration: line-through;
+}
